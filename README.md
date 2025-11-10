@@ -7,5 +7,6 @@ Capturas acerca de Ingredientes (primera parte)
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b607d2f1-5162-4247-bb7a-8bd9ecee2d4f" />
 Capturas de pantalla de Recetas (segunda parte)
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2eadd2ee-3fd3-4081-bfec-a3e42ba9a024" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fabe4816-bb74-41d8-b500-5c38feca1231" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8cc74713-a21a-4250-ab6a-46182af4468f" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fe9b2a3a-7f2a-470f-80a8-d3cd5ea3b86e" />
